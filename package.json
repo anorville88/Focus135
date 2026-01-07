@@ -4,7 +4,7 @@
   "description": "A focused to-do app with 1 major, 3 medium, and 5 small tasks - data saved locally",
   "private": true,
   "type": "module",
-  "homepage": "https://yourusername.github.io/135Tasks",
+  "homepage": "https://anorville88.github.io/Focus135",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
